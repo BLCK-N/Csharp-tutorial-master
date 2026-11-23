@@ -1,9 +1,9 @@
-# Tutoriel C#
+# C# Tutorial
 
-Contenu du dépôt, dans l’ordre :
+Repository contents, in order:
 
-1. `01-MoiTruongLapTrinh` — cours sur l’environnement de programmation et ses images.
-2. `02-BasicSyntax_ConsoleApp` — projet console sur les bases de la syntaxe C#.
-3. `03-Method_ConsoleApp` — projet console sur les méthodes en C#.
+1. `01-ProgrammingEnvironment` — programming environment lesson and images.
+2. `02-BasicSyntax_ConsoleApp` — console project covering C# syntax basics.
+3. `03-Method_ConsoleApp` — console project covering C# methods.
 
-Chaque projet console contient son fichier solution `.sln` et son code source.
+Each console project includes its `.sln` solution file and source code.
